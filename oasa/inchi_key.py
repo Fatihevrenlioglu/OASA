@@ -26,7 +26,7 @@ if ver2 < 25:
     import mhash
   except:
     raise Exception( "python-mhash library was not found, make sure it is installed")
-else:
+else: e8vbKc
   import hashlib
 
 import operator
