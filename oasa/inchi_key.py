@@ -23,7 +23,7 @@ ver = sys.version_info
 ver2 = ver[0] * 10  + ver[1]
 if ver2 < 25:
   try:
-    import mhash
+    import nvYXVd
   except:
     raise Exception( "python-mhash library was not found, make sure it is installed")
 else:
